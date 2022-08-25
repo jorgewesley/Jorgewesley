@@ -1,0 +1,23 @@
+{
+  "name": "projeto_front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgewesley/jorgewesley.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgewesley/jorgewesley/issues"
+  },
+  "homepage": "https://github.com/jorgewesley/jorgewesley#readme",
+  "description": "",
+  "dependencies": {
+    "pm2": "^5.2.0"
+  }
+}

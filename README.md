@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Olá+sou+Jorge+Wesley+👋;Desenvolvedor+Web;Ethical+Hacker;Apaixonado+por+tecnologia" alt="Typing SVG" />
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jorgewesley&theme=kimbie_dark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
